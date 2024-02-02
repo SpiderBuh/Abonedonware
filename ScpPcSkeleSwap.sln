@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScpPcSkeleSwap", "ScpPcSkeleSwap\ScpPcSkeleSwap.csproj", "{BE3BF27C-5BA3-4F28-8643-EA4502716140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3BF27C-5BA3-4F28-8643-EA4502716140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3BF27C-5BA3-4F28-8643-EA4502716140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3BF27C-5BA3-4F28-8643-EA4502716140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3BF27C-5BA3-4F28-8643-EA4502716140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128E3854-7996-4B29-A72F-B74899E20095}
+	EndGlobalSection
+EndGlobal
